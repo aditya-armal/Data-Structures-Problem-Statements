@@ -60,4 +60,3 @@ D = 4
 ### Explanation 2:
 
 No such rectangle exists with sides 1, 2, 3, 4, so we return 0.
-```
